@@ -1,0 +1,5 @@
+streamlit
+gtts
+SpeechRecognition
+google-cloud-speech
+pyaudio
